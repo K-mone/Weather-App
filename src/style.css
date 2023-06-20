@@ -1,0 +1,42 @@
+body {
+  font-family: "Croissant One", cursive;
+}
+.card {
+  background: radial-gradient(
+    401px at 50.6% -0.3%,
+    rgba(255, 255, 255, 0.31) 1.2%,
+    rgb(36, 212, 219) 100.2%
+  );
+  margin-top: 15px;
+  max-width: 100%;
+}
+form {
+  display: inline;
+  margin: 5px;
+  border-radius: 4px;
+  padding: 3px;
+}
+button {
+  padding: 3px;
+  text-align: center;
+}
+.current {
+  color: #da590f;
+}
+img {
+  max-width: 100%;
+  max-height: fit-content;
+}
+.forecast {
+  color: gray;
+  font-size: 18px;
+  padding: 18px 7px;
+  border-radius: 5px;
+}
+ul {
+  list-style-type: none;
+}
+i {
+  color: rgb(240, 237, 54);
+  font-size: 28px;
+}
